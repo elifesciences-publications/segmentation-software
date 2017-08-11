@@ -6,3 +6,5 @@ This is public version of the cell segmentation software developed (and being de
 For help using the software please contact the swain lab, Edinburgh:
 
 http://swainlab.bio.ed.ac.uk/
+
+This code relates to the paper "Distributing tasks via multiple input pathways increases cellular survival in stress". eLife, 2017. https://doi.org/10.7554/eLife.21415
